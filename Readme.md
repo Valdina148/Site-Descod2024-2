@@ -1,2 +1,1 @@
-<!--Melhorando o Site que Criei em 2023-->
-<!--Melhorando a aparência do site-->
+<!--Site em desenvolvimento, tem como objetivo concientizar as pessoas sobre a impartância da Reciclagem-->
